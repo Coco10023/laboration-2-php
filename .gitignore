@@ -1,0 +1,19 @@
+# Databasuppgifter
+/config/config.php
+
+# Installerade beroenden
+/vendor/
+/node_modules/
+
+# Miljöfiler
+.env
+
+# Loggfiler
+*.log
+
+# Operativsystem
+.DS_Store
+Thumbs.db
+
+# VS Code lokala inställningar
+.vscode/
